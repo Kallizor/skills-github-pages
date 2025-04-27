@@ -1,6 +1,6 @@
 ---
 title: "First Blog Post"
-date: 2025-04-2025
+date: 2025-04-27
 ---
 # The First is Always Hello World
 As the usually common paraphrase in all common programming languagues and guides, the first thing to printout is the commonly used "Hello World"
